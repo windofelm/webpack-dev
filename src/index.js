@@ -1,4 +1,4 @@
 console.log("Hi all..!");
 document.addEventListener("DOMContentLoaded", function(event) {
-    document.getElementById("content").innerHTML = "whateverXX";
+    document.getElementById("content").innerHTML = "whateverX";
 });
