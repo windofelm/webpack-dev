@@ -2,7 +2,7 @@ import {sayHello} from './print';
 
 console.log("Hi all..!");
 document.addEventListener("DOMContentLoaded", function(event) {
-    document.getElementById("content").innerHTML = "whateverK";
+    document.getElementById("content").innerHTML = "whateverY";
 });
 
 /*if (module.hot) {
